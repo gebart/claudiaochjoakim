@@ -20,14 +20,17 @@ nav {
 
     &.tag-h1 {
       @include font-size(1.6);
-
+      padding-left: 15px;
+      background: #eca;
       a {
         font-weight: bold;
         color: $color-darkGrey;
 
+        /*
         &:hover {
-          color: $color-brand;
+          color: $color-hover;
         }
+        */
       }
     }
 
@@ -38,7 +41,7 @@ nav {
       }
 
       &.active a {
-        color: $color-brand;
+        color: $color-hover;
         font-weight: bold;
       }
 
@@ -50,7 +53,7 @@ nav {
         color: $color-darkGrey;
 
         &:hover {
-          color: $color-brand;
+          color: $color-hover;
         }
       }
     }
