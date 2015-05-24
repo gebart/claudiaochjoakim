@@ -11,7 +11,7 @@
     {% capture my_include %}
     {% include brollop.md %}
     {% endcapture %}
-    {{ my_include }}
+    {{ my_include | markdownify }}
     </section>
 
 	{{ content }}
