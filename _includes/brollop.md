@@ -1,30 +1,61 @@
-Den 5 september gifter vi oss på [Aquaria vattenmuseum](http://aquaria.se/). Vigselceremonin inleds kl 18.00.
+Den 5 september gifter vi oss på [Aquaria vattenmuseum](http://aquaria.se/).
+Vigselceremonin inleds kl 18.00.
 
 ## Brudparet
 
-Claudia och Joakim
+![Claudia och Joakim](/assets/images/brudpar.jpg) Claudia och Joakim
+
+---
 
 ## Vigsel
-Vigseln äger rum den 5 september kl 18.00 på [Aquaria vattenmuseum](http://aquaria.se/). Aquaria ligger på Djurgården, mitt i Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/)
+
+Vigseln äger rum den 5 september kl 18.00 på [Aquaria
+vattenmuseum](http://aquaria.se/). Aquaria ligger på Djurgården, mitt i
+Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/)
+
+---
 
 ## Festmiddag
-Efter vigseln kommer vi att ha middag och fest på plats på Aquaria.
+
+Efter vigseln kommer vi att ha middag och fest på plats på Aquaria. Anmäl allergier till
+
+Klädkod: Kavaj
+
+---
 
 ## Resa hit
 
+Nedan finns en sammanfattning, på Aquarias hemsida finns guider för hur man
+hittar hit. Se [Hitta till Aquaria](http://aquaria.se/Infor-besoket/HITTA-HIT/)
+
 ### Bil
-Parkering på Djurgården kan vara svårt att hitta och dyr, ett alternativ är att ställa bilen  xxxxxxxx istället och ta buss YY till Aquaria.
+
+Parkering på Djurgården kan vara svårt att hitta och dyr, ett alternativ är att
+ställa bilen längre bort och ta spårvagn nummer 7 mot Waldermarsudde eller buss
+44 mot Skansen, stig av på hållplats Gröna Lund.
 
 ### SL
 
+Spårvagn nummer 7 mot Waldermarsudde eller buss 44 mot Skansen, stig av på
+hållplats Gröna Lund. Se även reseplaneraren på [sl.se](http://sl.se/).
+
 ### Båt från gamla stan
 
-## Boende
-I centrala Stockholm finns det mängder av alternativ för boende, men vi listar några förslag här nedan:
+Waxholmsbolaget kör färja mellan Gamla stan, Slussen och Djurgården.
+[Linjesträckning och terminaler - Waxholmsbolaget](http://www.waxholmsbolaget.se/resa/djurgardsfarjan/terminaler/)
 
- - xxx
- - yyy
- - zzz
+---
+
+## Boende
+
+I centrala Stockholm finns det mängder av alternativ för boende, men vi listar
+några förslag här nedan:
+
+ - xxxxxxx
+ - yyyyyyy
+ - zzzzzzz
+
+---
 
 ## Bröllopsfölje
 
@@ -35,7 +66,6 @@ I centrala Stockholm finns det mängder av alternativ för boende, men vi listar
 ### Brudgummens mor Inger Gebart
 
 ### Brudgummens far Rikard Gebart
-
 
 ### Tärna Victoria Alsén
 
@@ -55,9 +85,11 @@ Nära vän till brudparet.
 
 ## Bröllopsgåvor
 
-<!-- Vi önskar oss inga bröllopspresenter, men gäster kan betala en kuvertavgift på xxx kr. -->
+---
 
 ## Kontakt
+
+Nedan finns kontaktuppgifter till några nyckelpersoner.
 
 ### Brudparet
 

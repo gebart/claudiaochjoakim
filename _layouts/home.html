@@ -8,9 +8,7 @@
 
   <section>
     <h1>Br&ouml;llop 5 september 2015</h1>
-    {% capture my_include %}
-    {% include brollop.md %}
-    {% endcapture %}
+    {% capture my_include %}{% include brollop.md %}{% endcapture %}
     {{ my_include | markdownify }}
     </section>
 
