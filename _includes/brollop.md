@@ -83,6 +83,8 @@ Nära vän till brudparet.
 
 Nära vän till brudparet.
 
+---
+
 ## Bröllopsgåvor
 
 ---
