@@ -69,17 +69,25 @@ några förslag här nedan:
 
 ### Tärna Victoria Alsén
 
+![Victoria](/assets/images/victoria.jpg)
+
 Barndomsvän till bruden.
 
 ### Marskalk John Rönnbäck
+
+![John](/assets/images/john.jpg)
 
 Barndomsvän till brudgummen.
 
 ### Värd Malin Rudin
 
+![Malin](/assets/images/malin.jpg)
+
 Nära vän till brudparet.
 
 ### Värd Jesper Molin
+
+![Jesper](/assets/images/jesper.jpg)
 
 Nära vän till brudparet.
 
