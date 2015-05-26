@@ -15,9 +15,9 @@ Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/)
 
 ---
 
-## Festmiddag
+## Middag och fest
 
-Efter vigseln kommer vi att ha middag och fest på plats på Aquaria. Anmäl allergier till
+Efter vigseln kommer vi att bjuda in till middag och fest på Aquaria. Anmäl allergier till
 
 Klädkod: Kavaj
 
