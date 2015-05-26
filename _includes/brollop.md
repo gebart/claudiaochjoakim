@@ -63,9 +63,9 @@ några förslag här nedan:
 
 ### Brudens far Göran Nohlgård
 
-### Brudgummens mor Inger Gebart
+### Brudgummens mor Inger Gebart och far Rikard Gebart
 
-### Brudgummens far Rikard Gebart
+![Inger och Rikard](/assets/images/inger-rikard.jpg)
 
 ### Tärna Victoria Alsén
 
