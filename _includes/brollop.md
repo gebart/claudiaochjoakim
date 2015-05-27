@@ -59,9 +59,9 @@ några förslag här nedan:
 
 ## Bröllopsfölje
 
-### Brudens mor Tina Nohlgård
+### Brudens mor Tina Nohlgård och far Göran Nohlgård
 
-### Brudens far Göran Nohlgård
+![Tina och Göran](/assets/images/tina-goran.jpg)
 
 ### Brudgummens mor Inger Gebart och far Rikard Gebart
 
