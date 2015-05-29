@@ -25,7 +25,7 @@ Klädkod: Kavaj
 
 Sker helst via webbformuläret som finns här:
 
- - [Anmälningsformulär](http://google.com/).
+ - [Anmälningsformulär](http://goo.gl/forms/FrqIvG4RT3).
 
 Om ni av någon anledning inte kan använda formuläret på hemsidan kan ni ringa
 eller maila oss för att anmäla er. Glöm inte att ange eventuella matallergier
