@@ -17,9 +17,25 @@ Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/)
 
 ## Middag och fest
 
-Efter vigseln kommer vi att bjuda in till middag och fest på Aquaria. Anmäl allergier till
+Efter vigseln kommer vi att bjuda in till middag och fest på Aquaria.
 
 Klädkod: Kavaj
+
+### Anmälan
+
+Sker helst via webbformuläret som finns här:
+
+ - [Anmälningsformulär](http://google.com/).
+
+Om ni av någon anledning inte kan använda formuläret på hemsidan kan ni ringa
+eller maila oss för att anmäla er. Glöm inte att ange eventuella matallergier
+och specialkost.
+
+### Tal och spex
+
+Om ni vill hålla tal eller på annat sätt visa upp er inför middagssällskapet vill
+vi helst att ni föranmäler detta till våra värdar, Malin och Jesper.
+Kontaktuppgifter finner ni vid slutet av denna hemsida.
 
 ---
 
