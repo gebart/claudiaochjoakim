@@ -67,9 +67,26 @@ Waxholmsbolaget kör färja mellan Gamla stan, Slussen och Djurgården.
 I centrala Stockholm finns det mängder av alternativ för boende, men vi listar
 några förslag här nedan:
 
- - xxxxxxx
- - yyyyyyy
- - zzzzzzz
+### Vandrarhem
+
+ - Hostel Skeppsbron
+ - [Old Town Hostel, Gamla Stan](http://www.oldtownhostel-stockholm.com/)
+ - [Old Town Lodge, Gamla Stan](http://oldtownlodge.se/)
+
+### Hotell
+
+ - [Scandic Gamla Stan](http://www.scandichotels.se/Hotels/Sverige/Stockholm/Scandic-Gamla-Stan/)
+ - [Scandic Hasselbacken, Djurgården](http://www.scandichotels.se/Hotels/Sverige/Stockholm/Scandic-Hasselbacken/)
+ - [STF Hotel Gamla Stan](http://www.hotelgamlastan.se/hostel.aspx)
+
+### Fler förslag
+
+Här nedan finns några söksidor för boende listade:
+
+ - [Booking.com Stockholm](http://www.booking.com/Stockholm-Hotels‎)
+ - [Momondo Stockholm](http://www.momondo.se/hotell-stockholm)
+ - [Hostelworld.com Stockholm](http://www.hostelworld.com/Stockholm)
+ - [Vandrarhem Stockholm](http://www.vandrarhemstockholm.biz/)
 
 ---
 
