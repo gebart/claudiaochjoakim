@@ -109,7 +109,10 @@ Nära vän till brudparet.
 
 ---
 
-## Bröllopsgåvor
+## Bröllopspresenter
+
+*Mer info inom kort.*
+Vi mottager tacksamt era bidrag till en bröllopsresa.
 
 ---
 
