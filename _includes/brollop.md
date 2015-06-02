@@ -69,7 +69,7 @@ några förslag här nedan:
 
 ### Vandrarhem
 
- - Hostel Skeppsbron
+ - [Ånedin Hostel, båt vid Gamla Stan](http://www.anedinhostel.com/)
  - [Old Town Hostel, Gamla Stan](http://www.oldtownhostel-stockholm.com/)
  - [Old Town Lodge, Gamla Stan](http://oldtownlodge.se/)
 
@@ -133,7 +133,7 @@ Vi mottager tacksamt era bidrag till en bröllopsresa.
 
 ---
 
-## Kontakt
+## Kontaktuppgifter
 
 Nedan finns kontaktuppgifter till några nyckelpersoner.
 
@@ -155,20 +155,24 @@ Telefon: [0730-65 13 83](tel:+46730651383)
 
 #### Victoria Alsén
 
+Facebook: [victoria.alsen](https://www.facebook.com/victoria.alsen)<br />
 Telefon: [0739-40 95 40](tel:+46739409540)
 
 #### John Rönnbäck
 
+Facebook: [golioo](https://www.facebook.com/golioo)<br />
 Telefon: [070-29 70 486](tel:+46702970486)
 
 ### Värdpar
 
 #### Jesper Molin
 
+Facebook: [jesper.molin](https://www.facebook.com/jesper.molin)<br />
 Telefon: [073-818 31 32](tel:+46738183132)
 
 #### Malin Rudin
 
+Facebook: [malin.rudin](https://www.facebook.com/malin.rudin)<br />
 Telefon: [073-800 35 77](tel:+46738003577)
 
 ### Familjen
