@@ -1,0 +1,17 @@
+{% include header.html %}
+
+  {% include banner.html %}
+
+  <div class="wrapper">
+
+    {% include page-nav.html %}
+
+  <section>
+    <h1>Wedding September 5 2015</h1>
+    {% capture my_include %}{% include brollop-en.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+    </section>
+
+	{{ content }}
+
+{% include footer.html %}
