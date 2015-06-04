@@ -1,3 +1,4 @@
+<div class="nobreak">
 Den 5 september gifter vi oss på [Aquaria vattenmuseum](http://aquaria.se/).
 Vigselceremonin inleds kl 18.00.
 
@@ -7,6 +8,9 @@ Vigselceremonin inleds kl 18.00.
 
 ---
 
+</div>
+<div class="nobreak">
+
 ## Vigsel
 
 Vigseln äger rum den 5 september kl 18.00 på [Aquaria
@@ -14,6 +18,8 @@ vattenmuseum](http://aquaria.se/). Aquaria ligger på Djurgården, mitt i
 Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/)
 
 ---
+</div>
+<div class="nobreak">
 
 ## Middag och fest
 
@@ -37,6 +43,8 @@ vi helst att ni föranmäler detta till våra värdar, Malin och Jesper.
 Kontaktuppgifter finner ni vid slutet av denna hemsida.
 
 ---
+</div>
+<div class="nobreak">
 
 ## Resa hit
 
@@ -60,6 +68,8 @@ Waxholmsbolaget kör färja mellan Gamla stan, Slussen och Djurgården.
 [Linjesträckning och terminaler - Waxholmsbolaget](http://www.waxholmsbolaget.se/resa/djurgardsfarjan/terminaler/)
 
 ---
+</div>
+<div class="nobreak">
 
 ## Boende
 
@@ -88,16 +98,51 @@ Här nedan finns några söksidor för boende listade:
  - [Vandrarhem Stockholm](http://www.vandrarhemstockholm.biz/)
 
 ---
+</div>
+<div class="nobreak">
+
+## Bröllopspresenter
+
+*Mer info inom kort.*
+
+Vi har redan det mesta vi kan önska oss i saker men vi sparar till en
+bröllopsresa. Om man vill ge ett bidrag till vår bröllopsresa går det göra
+genom att sätta in ett valfritt belopp (1 kr går lika väl som 1000 kr) på ett
+särskilt konto för ändamålet:
+
+- Bank: Handelsbanken
+- Kontohavare: Inger Gebart
+- Clearingnr: 6210
+- Kontonr:  911 913 688
+
+Märk insättningen med ert namn, Inger kommer att slå samman allt till en
+enda summa och skriva upp alla namn så att de individuella beloppen förblir
+anonyma.
+
+Om man ändå vill ge en bröllopspresent kommer här att snart komma upp en länk
+till en kort önskelista.
+
+---
+</div>
+<div class="nobreak">
 
 ## Bröllopsfölje
+
+<div class="nobreak">
 
 ### Brudens mor Tina Nohlgård och far Göran Nohlgård
 
 ![Tina och Göran](/assets/images/tina-goran.jpg)
 
+</div>
+<div class="nobreak">
+
 ### Brudgummens mor Inger Gebart och far Rikard Gebart
 
 ![Inger och Rikard](/assets/images/inger-rikard.jpg)
+
+</div>
+<div class="nobreak">
 
 ### Tärna Victoria Alsén
 
@@ -105,11 +150,17 @@ Här nedan finns några söksidor för boende listade:
 
 Barndomsvän till bruden.
 
+</div>
+<div class="nobreak">
+
 ### Marskalk John Rönnbäck
 
 ![John](/assets/images/john.jpg)
 
 Barndomsvän till brudgummen.
+
+</div>
+<div class="nobreak">
 
 ### Värd Malin Rudin
 
@@ -117,20 +168,18 @@ Barndomsvän till brudgummen.
 
 Nära vän till brudparet.
 
+</div>
+<div class="nobreak">
+
 ### Värd Jesper Molin
 
 ![Jesper](/assets/images/jesper.jpg)
 
 Nära vän till brudparet.
-
+</div>
 ---
-
-## Bröllopspresenter
-
-*Mer info inom kort.*
-Vi mottager tacksamt era bidrag till en bröllopsresa.
-
----
+</div>
+<div class="nobreak">
 
 ## Kontaktuppgifter
 
@@ -184,3 +233,4 @@ Telefon: [070-490 99 10](tel:+46704909910) (Tina) [0702690691](tel:+46702690691)
 
 Telefon: [070-276 67 94](tel:+46702766794) (Inger) [072-510 37 80](tel:+46725103780) (Rikard)
 
+</div>

@@ -78,6 +78,12 @@ Below are some search sites for accommodation in Stockholm:
 
 ---
 
+## Wedding presents
+
+*More info coming soon.*
+
+---
+
 ## Bröllopsfölje
 
 ### Mother of the bride Tina Nohlgård and father of the bride Göran Nohlgård
@@ -111,12 +117,6 @@ Close friend of the bridal couple.
 ![Jesper](/assets/images/jesper.jpg)
 
 Close friend of the bridal couple.
-
----
-
-## Wedding presents
-
-*More info coming soon.*
 
 ---
 
