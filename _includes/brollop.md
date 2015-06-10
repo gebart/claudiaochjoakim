@@ -109,8 +109,7 @@ Här nedan finns några söksidor för boende listade:
 
 Vi har redan det mesta vi kan önska oss i saker men vi sparar till en
 bröllopsresa. Om man vill ge ett bidrag till vår bröllopsresa går det göra
-genom att sätta in ett valfritt belopp (1 kr går lika väl som 1000 kr) på ett
-särskilt konto för ändamålet:
+genom att sätta in ett valfritt belopp på ett särskilt konto för ändamålet:
 
 - Bank: Handelsbanken
 - Kontohavare: Inger Gebart
