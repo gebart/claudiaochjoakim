@@ -1,4 +1,4 @@
-Our wedding takes place on September 5 2015 at [Aquaria Underwater Museum](http://aquaria.se/).
+Our wedding takes place on September 5th 2015 at [Aquaria Underwater Museum](http://aquaria.se/).
 The ceremony will begin at 18.00 (6 pm).
 
 ## Bride and groom
@@ -9,7 +9,7 @@ The ceremony will begin at 18.00 (6 pm).
 
 ## Wedding ceremony
 
-The ceremony will begin at 18.00 on September 5 2015, at [Aquaria Underwater Museum](http://aquaria.se/).
+The ceremony will begin at 18.00 on September 5th 2015, at [Aquaria Underwater Museum](http://aquaria.se/).
 Aquaria is located on Djurgården, near Stockholm city centre. [Maps link](https://www.google.se/maps/place/Aquaria+Vattenmuseum/)
 
 ---
@@ -18,16 +18,13 @@ Aquaria is located on Djurgården, near Stockholm city centre. [Maps link](https
 
 After the wedding ceremony we will serve dinner and a party at Aquaria.
 
-Dress code: Dark business suit
-
 ### Reply
 
 Send us an email or Facebook message with your reply.
 
 ### Speeches and other entertainment
 
-Contact our host and hostess, Jesper and Malin, if you wish to make a speech or
-otherwise entertain the guests during dinner or otherwise. Contact information
+Contact our host and hostess, Jesper and Malin, if you wish to make a speech, entertain the guests during dinner or otherwise. Contact information
 for our host and hostess can be found at the bottom of this page.
 
 ---
@@ -36,6 +33,8 @@ for our host and hostess can be found at the bottom of this page.
 
 Below is a short summary of the local transports available to get to Aquaria
 when in Stockholm.
+
+If you have any questions you are more the welcome to contact one of us.
 
 ### Bus/tram
 
@@ -78,41 +77,35 @@ Below are some search sites for accommodation in Stockholm:
 
 ---
 
-## Wedding presents
-
-*More info coming soon.*
-
----
-
 ## Bröllopsfölje
 
-### Mother of the bride Tina Nohlgård and father of the bride Göran Nohlgård
+### Bride's parents, Tina Nohlgård and Göran Nohlgård
 
 ![Tina and Göran](/assets/images/tina-goran.jpg)
 
-### Mother of the groom Inger Gebart and father of the groom Rikard Gebart
+### Groom's parents, Inger Gebart and Rikard Gebart
 
 ![Inger and Rikard](/assets/images/inger-rikard.jpg)
 
-### Bridesmaid Victoria Alsén
+### Maid of honour, Victoria Alsén
 
 ![Victoria](/assets/images/victoria.jpg)
 
 Childhood friend of the bride.
 
-### Best man John Rönnbäck
+### Best man, John Rönnbäck
 
 ![John](/assets/images/john.jpg)
 
 Childhood friend of the groom.
 
-### Hostess Malin Rudin
+### Hostess, Malin Rudin
 
 ![Malin](/assets/images/malin.jpg)
 
 Close friend of the bridal couple.
 
-### Host Jesper Molin
+### Host, Jesper Molin
 
 ![Jesper](/assets/images/jesper.jpg)
 
