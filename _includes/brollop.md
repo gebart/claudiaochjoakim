@@ -1,5 +1,5 @@
 <div class="nobreak">
-Den 5 september gifter vi oss på [Aquaria vattenmuseum](http://aquaria.se/).
+Den 5 september gifter vi oss på [Aquaria vattenmuseum](http://aquaria.se/){:target="_blank"}.
 Vigselceremonin inleds kl 18.00.
 
 ## Brudparet
@@ -14,8 +14,8 @@ Vigselceremonin inleds kl 18.00.
 ## Vigsel
 
 Vigseln äger rum den 5 september kl 18.00 på [Aquaria
-vattenmuseum](http://aquaria.se/). Aquaria ligger på Djurgården, mitt i
-Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/)
+vattenmuseum](http://aquaria.se/){:target="_blank"}. Aquaria ligger på Djurgården, mitt i
+Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/){:target="_blank"}
 
 ---
 </div>
@@ -51,7 +51,7 @@ Kontaktuppgifter finner ni vid slutet av denna hemsida.
 ## Resa hit
 
 Nedan finns en sammanfattning, på Aquarias hemsida finns guider för hur man
-hittar hit. Se [Hitta till Aquaria](http://aquaria.se/Infor-besoket/HITTA-HIT/)
+hittar hit. Se [Hitta till Aquaria](http://aquaria.se/Infor-besoket/HITTA-HIT/){:target="_blank"}
 
 ### Bil
 
@@ -62,12 +62,12 @@ ställa bilen längre bort och ta spårvagn nummer 7 mot Waldermarsudde eller bu
 ### SL
 
 Spårvagn nummer 7 mot Waldermarsudde eller buss 44 mot Skansen, stig av på
-hållplats Gröna Lund. Se även reseplaneraren på [sl.se](http://sl.se/).
+hållplats Gröna Lund. Se även reseplaneraren på [sl.se](http://sl.se/){:target="_blank"}.
 
 ### Båt från gamla stan
 
 Waxholmsbolaget kör färja mellan Gamla stan, Slussen och Djurgården.
-[Linjesträckning och terminaler - Waxholmsbolaget](http://www.waxholmsbolaget.se/resa/djurgardsfarjan/terminaler/)
+[Linjesträckning och terminaler - Waxholmsbolaget](http://www.waxholmsbolaget.se/resa/djurgardsfarjan/terminaler/){:target="_blank"}
 
 ---
 </div>
@@ -80,24 +80,24 @@ några förslag här nedan:
 
 ### Vandrarhem
 
- - [Ånedin Hostel, båt vid Gamla Stan](http://www.anedinhostel.com/)
- - [Old Town Hostel, Gamla Stan](http://www.oldtownhostel-stockholm.com/)
- - [Old Town Lodge, Gamla Stan](http://oldtownlodge.se/)
+ - [Ånedin Hostel, båt vid Gamla Stan](http://www.anedinhostel.com/){:target="_blank"}
+ - [Old Town Hostel, Gamla Stan](http://www.oldtownhostel-stockholm.com/){:target="_blank"}
+ - [Old Town Lodge, Gamla Stan](http://oldtownlodge.se/){:target="_blank"}
 
 ### Hotell
 
- - [Scandic Gamla Stan](http://www.scandichotels.se/Hotels/Sverige/Stockholm/Scandic-Gamla-Stan/)
- - [Scandic Hasselbacken, Djurgården](http://www.scandichotels.se/Hotels/Sverige/Stockholm/Scandic-Hasselbacken/)
- - [STF Hotel Gamla Stan](http://www.hotelgamlastan.se/hostel.aspx)
+ - [Scandic Gamla Stan](http://www.scandichotels.se/Hotels/Sverige/Stockholm/Scandic-Gamla-Stan/){:target="_blank"}
+ - [Scandic Hasselbacken, Djurgården](http://www.scandichotels.se/Hotels/Sverige/Stockholm/Scandic-Hasselbacken/){:target="_blank"}
+ - [STF Hotel Gamla Stan](http://www.hotelgamlastan.se/hostel.aspx){:target="_blank"}
 
 ### Fler förslag
 
 Här nedan finns några söksidor för boende listade:
 
- - [Booking.com Stockholm](http://www.booking.com/Stockholm-Hotels‎)
- - [Momondo Stockholm](http://www.momondo.se/hotell-stockholm)
- - [Hostelworld.com Stockholm](http://www.hostelworld.com/Stockholm)
- - [Vandrarhem Stockholm](http://www.vandrarhemstockholm.biz/)
+ - [Booking.com Stockholm](http://www.booking.com/Stockholm-Hotels){:target="_blank"}
+ - [Momondo Stockholm](http://www.momondo.se/hotell-stockholm){:target="_blank"}
+ - [Hostelworld.com Stockholm](http://www.hostelworld.com/Stockholm){:target="_blank"}
+ - [Vandrarhem Stockholm](http://www.vandrarhemstockholm.biz/){:target="_blank"}
 
 ---
 </div>
@@ -135,12 +135,16 @@ till en kort önskelista.
 
 ![Tina och Göran](/assets/images/tina-goran.jpg)
 
+Telefon: [070-490 99 10](tel:+46704909910) (Tina) [0702690691](tel:+46702690691) (Göran)
+
 </div>
 <div class="nobreak">
 
 ### Brudgummens mor Inger Gebart och far Rikard Gebart
 
 ![Inger och Rikard](/assets/images/inger-rikard.jpg)
+
+Telefon: [070-276 67 94](tel:+46702766794) (Inger) [072-510 37 80](tel:+46725103780) (Rikard)
 
 </div>
 <div class="nobreak">
@@ -151,6 +155,9 @@ till en kort önskelista.
 
 Barndomsvän till bruden.
 
+Facebook: [victoria.alsen](https://www.facebook.com/victoria.alsen){:target="_blank"}<br />
+Telefon: [0739-40 95 40](tel:+46739409540)
+
 </div>
 <div class="nobreak">
 
@@ -159,6 +166,9 @@ Barndomsvän till bruden.
 ![John](/assets/images/john.jpg)
 
 Barndomsvän till brudgummen.
+
+Facebook: [golioo](https://www.facebook.com/golioo){:target="_blank"}<br />
+Telefon: [070-29 70 486](tel:+46702970486)
 
 </div>
 <div class="nobreak">
@@ -169,6 +179,9 @@ Barndomsvän till brudgummen.
 
 Nära vän till brudparet.
 
+Facebook: [malin.rudin](https://www.facebook.com/malin.rudin){:target="_blank"}<br />
+Telefon: [073-800 35 77](tel:+46738003577)
+
 </div>
 <div class="nobreak">
 
@@ -177,6 +190,10 @@ Nära vän till brudparet.
 ![Jesper](/assets/images/jesper.jpg)
 
 Nära vän till brudparet.
+
+Facebook: [jesper.molin](https://www.facebook.com/jesper.molin){:target="_blank"}<br />
+Telefon: [073-818 31 32](tel:+46738183132)
+
 </div>
 ---
 </div>
@@ -184,54 +201,18 @@ Nära vän till brudparet.
 
 ## Kontaktuppgifter
 
-Nedan finns kontaktuppgifter till några nyckelpersoner.
+Nedan finns kontaktuppgifter till brudparet.
 
-### Brudparet
-
-#### Claudia
+### Claudia
 
 Mail: [claudia@nohlgard.se](mailto:claudia@nohlgard.se)<br />
-Facebook: [claudia.nohlgard](https://www.facebook.com/claudia.nohlgard)<br />
+Facebook: [claudia.nohlgard](https://www.facebook.com/claudia.nohlgard){:target="_blank"}<br />
 Telefon: [070-922 87 11](tel:+46709228711)
 
-#### Joakim
+### Joakim
 
 Mail: [joakim@nohlgard.se](mailto:joakim@nohlgard.se)<br />
-Facebook: [joakim.gebart](https://www.facebook.com/joakim.gebart)<br />
+Facebook: [joakim.gebart](https://www.facebook.com/joakim.gebart){:target="_blank"}<br />
 Telefon: [0730-65 13 83](tel:+46730651383)
-
-### Tärna och marskalk
-
-#### Victoria Alsén
-
-Facebook: [victoria.alsen](https://www.facebook.com/victoria.alsen)<br />
-Telefon: [0739-40 95 40](tel:+46739409540)
-
-#### John Rönnbäck
-
-Facebook: [golioo](https://www.facebook.com/golioo)<br />
-Telefon: [070-29 70 486](tel:+46702970486)
-
-### Värdpar
-
-#### Jesper Molin
-
-Facebook: [jesper.molin](https://www.facebook.com/jesper.molin)<br />
-Telefon: [073-818 31 32](tel:+46738183132)
-
-#### Malin Rudin
-
-Facebook: [malin.rudin](https://www.facebook.com/malin.rudin)<br />
-Telefon: [073-800 35 77](tel:+46738003577)
-
-### Familjen
-
-#### Tina och Göran Nohlgård
-
-Telefon: [070-490 99 10](tel:+46704909910) (Tina) [0702690691](tel:+46702690691) (Göran)
-
-#### Inger och Rikard Gebart
-
-Telefon: [070-276 67 94](tel:+46702766794) (Inger) [072-510 37 80](tel:+46725103780) (Rikard)
 
 </div>
