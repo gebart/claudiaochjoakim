@@ -31,9 +31,9 @@ Klädkod: Kavaj
 
 Sker via webbformuläret som finns här:
 
- - [Anmälningsformulär](http://goo.gl/forms/FrqIvG4RT3).
+ - [Anmälningsformulär](http://goo.gl/forms/FrqIvG4RT3){:target="_blank"}.
 
-Ni kan också ringa eller maila oss eller våra värdar, Malin och Jesper, för att anmäla
+Ni kan också höra av er till oss eller våra värdar, Malin och Jesper, för att anmäla
 er. Glöm inte att ange eventuella matallergier och specialkost. Det går även
 bra att ta med sig en respektive, anmäl denna person separat så att vi vet
 antalet och inte missar någon specialkost och annat viktigt.
