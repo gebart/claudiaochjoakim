@@ -203,6 +203,12 @@ Telefon: [073-818 31 32](tel:+46738183132)
 
 Nedan finns kontaktuppgifter till brudparet.
 
+### Post
+
+Claudia Nohlgård & Joakim Gebart<br />
+Kårhusvägen 4<br />
+977 54 Luleå
+
 ### Claudia
 
 Mail: [claudia@nohlgard.se](mailto:claudia@nohlgard.se)<br />
