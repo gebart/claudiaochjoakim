@@ -122,7 +122,7 @@ anonyma.
 
 Om man vill ge en mer traditionell bröllopspresent finns här en önskelista på Cervera:
 
-- https://www.cervera.se/Cervera-Club/Event/?code=ed418eef-8845-4dbf-9a6a-0615a2273aa9
+- [Cervera önskelista](https://www.cervera.se/Cervera-Club/Event/?code=ed418eef-8845-4dbf-9a6a-0615a2273aa9)
 
 Ange listans namn "Claudia och Joakim Bröllop" i Cerverabutiken så kan de hitta
 den i kassan.
