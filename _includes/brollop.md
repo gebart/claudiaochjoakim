@@ -17,6 +17,9 @@ Vigseln äger rum den 5 september kl 18.00 på [Aquaria
 vattenmuseum](http://aquaria.se/){:target="_blank"}. Aquaria ligger på Djurgården, mitt i
 Stockholm. [Karta](https://www.google.se/maps/place/Aquaria+Vattenmuseum/){:target="_blank"}
 
+Vigseln kommer att äga rum utomhus nära vattnet, om vädret tillåter, tänk på
+att ta med tillräckligt med kläder för att kunna vistas utomhus i en timme.
+
 ---
 </div>
 <div class="nobreak">
